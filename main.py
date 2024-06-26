@@ -5,7 +5,7 @@ import base64
 import numpy as np
 import speech_recognition as sr
 
-openai = OpenAI(api_key="sk-proj-sogPZruuyxbtyrNswg8fT3BlbkFJRdNNQ4EWd0EQFW59xcsN")
+openai = OpenAI(api_key="")
 
 
 def text_to_speech(text):
